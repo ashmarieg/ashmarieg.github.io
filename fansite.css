@@ -11,3 +11,12 @@ body {background-color: rgb(247, 229, 243);}
 .container{
     margin: auto;
 }
+
+.purple{
+    color:purple;
+}
+
+.border {
+    width: 100vw;
+    border: 1px solid rgb(241, 142, 13);
+}
